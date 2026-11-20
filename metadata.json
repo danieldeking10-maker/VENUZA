@@ -1,0 +1,6 @@
+{
+  "name": "Venuza",
+  "description": "Find the perfect venue for every moment — 3D animated event centre booking platform for bookers, centre owners, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

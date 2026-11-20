@@ -1,0 +1,733 @@
+{
+  "venues": [
+    {
+      "id": "ven-accra-aurum",
+      "name": "Aurum Grand Dome",
+      "description": "Flagship convention ballroom and gala hall in East Legon featuring a 14-metre acoustic dome ceiling, dual concert lighting rigs, VIP bridal and speaker suites, and 650-car underground valet.",
+      "country": "Ghana",
+      "region": "Greater Accra",
+      "city": "Accra",
+      "address": "18 Ambassadorial Enclave, East Legon, Accra",
+      "coordinates": {
+        "lat": 5.6355,
+        "lng": -0.1583,
+        "mapX": 54,
+        "mapY": 42
+      },
+      "capacity": 1200,
+      "eventTypes": [
+        "Conferences",
+        "Weddings",
+        "Shows",
+        "Parties"
+      ],
+      "facilities": [
+        "Line-Array Concert Audio",
+        "Dual 500kVA Backup Generators",
+        "4K LED Stage Wall",
+        "VIP Green Rooms",
+        "Valet Parking (400+)",
+        "Industrial Kitchen"
+      ],
+      "bookingCharge": 18500,
+      "currency": "GHS",
+      "planningContact": {
+        "name": "Kwame Mensah-Bonsu",
+        "phone": "+233 24 881 4920",
+        "email": "events@aurumgrand.gh",
+        "momoNumber": "024 881 4920 (Merchant: AURUM)",
+        "momoNetwork": "MTN MoMo",
+        "bankAccount": "Ecobank Ghana · 1441002938411"
+      },
+      "visualTheme": "grand_ballroom",
+      "images": {
+        "interior": "preset:grand_ballroom:interior",
+        "exterior": "preset:grand_ballroom:exterior",
+        "surroundings": "preset:grand_ballroom:surroundings",
+        "gallery": [
+          {
+            "id": "aurum-1",
+            "url": "preset:grand_ballroom:interior",
+            "angle": "interior",
+            "caption": "Grand Acoustic Dome & Main Gala Floor"
+          },
+          {
+            "id": "aurum-2",
+            "url": "preset:grand_ballroom:exterior",
+            "angle": "exterior",
+            "caption": "Cantilevered Arrival Facade & Reflecting Plaza"
+          },
+          {
+            "id": "aurum-3",
+            "url": "preset:grand_ballroom:surroundings",
+            "angle": "surroundings",
+            "caption": "East Legon Botanical Promenade & Valet Loop"
+          },
+          {
+            "id": "aurum-4",
+            "url": "preset:auditorium_stage:interior",
+            "angle": "interior",
+            "caption": "Keynote & Concert Stage Production Configuration"
+          }
+        ]
+      },
+      "bookedDates": [
+        "2026-11-23",
+        "2026-11-27",
+        "2026-12-02"
+      ],
+      "status": "approved",
+      "botReport": {
+        "recommendation": "recommend_approval",
+        "score": 100,
+        "summary": "All 4 automated checks passed. Verified hospitality property.",
+        "checks": [
+          {
+            "label": "Profile & Contact Completeness",
+            "passed": true,
+            "detail": "Complete specs and Ghana contact verified."
+          },
+          {
+            "label": "Geolocation & Map Pin Verification",
+            "passed": true,
+            "detail": "East Legon, Accra pin matched."
+          },
+          {
+            "label": "Interior & Exterior Media Integrity",
+            "passed": true,
+            "detail": "Interior, exterior, and surroundings verified."
+          },
+          {
+            "label": "Duplicate Listing Scan",
+            "passed": true,
+            "detail": "Unique listing in Greater Accra."
+          }
+        ],
+        "checkedAt": "2026-10-12T09:00:00Z"
+      },
+      "rating": 4.9,
+      "reviewCount": 28,
+      "ownerId": "owner-demo",
+      "ownerName": "Kwame Mensah-Bonsu",
+      "createdAt": "2026-10-12T09:00:00Z"
+    },
+    {
+      "id": "ven-accra-osu-pavilion",
+      "name": "Osu Glass Pavilion",
+      "description": "Floor-to-ceiling architectural glass pavilion steps from Independence Avenue. Ideal for product launches, diplomatic receptions, and executive summits with landscaped reflecting courtyard.",
+      "country": "Ghana",
+      "region": "Greater Accra",
+      "city": "Accra",
+      "address": "42 Cantonments Crescent, Osu, Accra",
+      "coordinates": {
+        "lat": 5.5608,
+        "lng": -0.1791,
+        "mapX": 38,
+        "mapY": 64
+      },
+      "capacity": 480,
+      "eventTypes": [
+        "Conferences",
+        "Weddings",
+        "Parties"
+      ],
+      "facilities": [
+        "Climate-Controlled Glass Hall",
+        "Backup Generator",
+        "High-Speed Fiber Wi-Fi",
+        "Reflecting Pool Terrace",
+        "Catering Prep Pantry"
+      ],
+      "bookingCharge": 12000,
+      "currency": "GHS",
+      "planningContact": {
+        "name": "Abena Boateng",
+        "phone": "+233 20 442 7105",
+        "email": "bookings@osupavilion.gh",
+        "momoNumber": "020 442 7105 (Telecel Merchant)",
+        "momoNetwork": "Telecel Cash",
+        "bankAccount": "Stanbic Bank Ghana · 904000817261"
+      },
+      "visualTheme": "glass_pavilion",
+      "images": {
+        "interior": "preset:glass_pavilion:interior",
+        "exterior": "preset:glass_pavilion:exterior",
+        "surroundings": "preset:glass_pavilion:surroundings",
+        "gallery": [
+          {
+            "id": "osu-1",
+            "url": "preset:glass_pavilion:interior",
+            "angle": "interior",
+            "caption": "Floor-to-Ceiling Glass Reception Atrium"
+          },
+          {
+            "id": "osu-2",
+            "url": "preset:glass_pavilion:exterior",
+            "angle": "exterior",
+            "caption": "Twilight Cantonments Glass Pavilion Elevation"
+          },
+          {
+            "id": "osu-3",
+            "url": "preset:glass_pavilion:surroundings",
+            "angle": "surroundings",
+            "caption": "Reflecting Water Court & Terrace Gardens"
+          }
+        ]
+      },
+      "bookedDates": [
+        "2026-11-22",
+        "2026-11-29"
+      ],
+      "status": "approved",
+      "botReport": {
+        "recommendation": "recommend_approval",
+        "score": 100,
+        "summary": "All 4 automated checks passed.",
+        "checks": [
+          {
+            "label": "Profile & Contact Completeness",
+            "passed": true,
+            "detail": "Complete profile."
+          },
+          {
+            "label": "Geolocation & Map Pin Verification",
+            "passed": true,
+            "detail": "Osu, Accra coordinates verified."
+          },
+          {
+            "label": "Interior & Exterior Media Integrity",
+            "passed": true,
+            "detail": "All media angles supplied."
+          },
+          {
+            "label": "Duplicate Listing Scan",
+            "passed": true,
+            "detail": "No duplicates."
+          }
+        ],
+        "checkedAt": "2026-10-18T11:30:00Z"
+      },
+      "rating": 4.8,
+      "reviewCount": 19,
+      "ownerId": "owner-2",
+      "ownerName": "Abena Boateng",
+      "createdAt": "2026-10-18T11:30:00Z"
+    },
+    {
+      "id": "ven-kumasi-royal",
+      "name": "Manhyia Heritage Amphitheatre",
+      "description": "Premier Ashanti regional performing arts auditorium and banquet courtyard in Kumasi. Features tiered oak acoustic seating, live broadcast booths, and manicured royal gardens.",
+      "country": "Ghana",
+      "region": "Ashanti",
+      "city": "Kumasi",
+      "address": "9 Royal Ridge Boulevard, Nhyiaeso, Kumasi",
+      "coordinates": {
+        "lat": 6.6885,
+        "lng": -1.6244,
+        "mapX": 49,
+        "mapY": 51
+      },
+      "capacity": 950,
+      "eventTypes": [
+        "Shows",
+        "Conferences",
+        "Weddings"
+      ],
+      "facilities": [
+        "Tiered Auditorium Seating",
+        "Stage Truss & Spotlights",
+        "Backup Generator",
+        "Outdoor Marquee Lawn",
+        "Security Perimeter"
+      ],
+      "bookingCharge": 9800,
+      "currency": "GHS",
+      "planningContact": {
+        "name": "Nana Yaw Osei",
+        "phone": "+233 54 319 8821",
+        "email": "desk@manhyiaheritage.gh",
+        "momoNumber": "054 319 8821",
+        "momoNetwork": "MTN MoMo",
+        "bankAccount": "GCB Bank · 601118004291"
+      },
+      "visualTheme": "auditorium_stage",
+      "images": {
+        "interior": "preset:auditorium_stage:interior",
+        "exterior": "preset:auditorium_stage:exterior",
+        "surroundings": "preset:auditorium_stage:surroundings",
+        "gallery": [
+          {
+            "id": "kumasi-1",
+            "url": "preset:auditorium_stage:interior",
+            "angle": "interior",
+            "caption": "Tiered Oak Acoustic Amphitheatre & Stage Rig"
+          },
+          {
+            "id": "kumasi-2",
+            "url": "preset:auditorium_stage:exterior",
+            "angle": "exterior",
+            "caption": "Royal Ridge Colonnade & Main Entrance"
+          },
+          {
+            "id": "kumasi-3",
+            "url": "preset:auditorium_stage:surroundings",
+            "angle": "surroundings",
+            "caption": "Manicured Outdoor Marquee Lawn & Grounds"
+          }
+        ]
+      },
+      "bookedDates": [
+        "2026-11-25",
+        "2026-12-04"
+      ],
+      "status": "approved",
+      "botReport": {
+        "recommendation": "recommend_approval",
+        "score": 100,
+        "summary": "Verified Kumasi venue ready for booking.",
+        "checks": [
+          {
+            "label": "Profile & Contact Completeness",
+            "passed": true,
+            "detail": "Verified."
+          },
+          {
+            "label": "Geolocation & Map Pin Verification",
+            "passed": true,
+            "detail": "Nhyiaeso, Kumasi."
+          },
+          {
+            "label": "Interior & Exterior Media Integrity",
+            "passed": true,
+            "detail": "Verified."
+          },
+          {
+            "label": "Duplicate Listing Scan",
+            "passed": true,
+            "detail": "Unique."
+          }
+        ],
+        "checkedAt": "2026-10-20T14:00:00Z"
+      },
+      "rating": 4.7,
+      "reviewCount": 15,
+      "ownerId": "owner-3",
+      "ownerName": "Nana Yaw Osei",
+      "createdAt": "2026-10-20T14:00:00Z"
+    },
+    {
+      "id": "ven-lagos-eko-sky",
+      "name": "Victoria Island Skyline Terrace",
+      "description": "Elevated rooftop event centre and indoor glass lounge overlooking the Atlantic coastline in Victoria Island, Lagos. Designed for awards nights, concerts, and upscale brand showcases.",
+      "country": "Nigeria",
+      "region": "Lagos",
+      "city": "Victoria Island",
+      "address": "14 Adeola Odeku Street, Victoria Island, Lagos",
+      "coordinates": {
+        "lat": 6.4281,
+        "lng": 3.4219,
+        "mapX": 66,
+        "mapY": 36
+      },
+      "capacity": 700,
+      "eventTypes": [
+        "Shows",
+        "Parties",
+        "Weddings"
+      ],
+      "facilities": [
+        "Open-Air Skyline Deck",
+        "Retractable Acoustic Roof",
+        "VIP Bottle & Lounge Pods",
+        "Dedicated Sound Engineer",
+        "Valet Arrival"
+      ],
+      "bookingCharge": 3800000,
+      "currency": "NGN",
+      "planningContact": {
+        "name": "Tunde Adeyemi",
+        "phone": "+234 803 412 9088",
+        "email": "events@viskyline.ng",
+        "momoNumber": "Bank Transfer Preferred",
+        "momoNetwork": "MTN MoMo",
+        "bankAccount": "GTBank Nigeria · 0129384712"
+      },
+      "visualTheme": "rooftop_terrace",
+      "images": {
+        "interior": "preset:rooftop_terrace:interior",
+        "exterior": "preset:rooftop_terrace:exterior",
+        "surroundings": "preset:rooftop_terrace:surroundings",
+        "gallery": [
+          {
+            "id": "lagos-1",
+            "url": "preset:rooftop_terrace:interior",
+            "angle": "interior",
+            "caption": "Glass Lounge & Retractable Acoustic Canopy"
+          },
+          {
+            "id": "lagos-2",
+            "url": "preset:rooftop_terrace:exterior",
+            "angle": "exterior",
+            "caption": "Victoria Island Skyline Terrace Pavilion"
+          },
+          {
+            "id": "lagos-3",
+            "url": "preset:rooftop_terrace:surroundings",
+            "angle": "surroundings",
+            "caption": "Atlantic Horizon Deck & Valet Approach"
+          }
+        ]
+      },
+      "bookedDates": [
+        "2026-11-24",
+        "2026-11-30"
+      ],
+      "status": "approved",
+      "botReport": {
+        "recommendation": "recommend_approval",
+        "score": 100,
+        "summary": "Verified Victoria Island property.",
+        "checks": [
+          {
+            "label": "Profile & Contact Completeness",
+            "passed": true,
+            "detail": "Verified."
+          },
+          {
+            "label": "Geolocation & Map Pin Verification",
+            "passed": true,
+            "detail": "Lagos pin valid."
+          },
+          {
+            "label": "Interior & Exterior Media Integrity",
+            "passed": true,
+            "detail": "Verified."
+          },
+          {
+            "label": "Duplicate Listing Scan",
+            "passed": true,
+            "detail": "Unique."
+          }
+        ],
+        "checkedAt": "2026-10-24T10:15:00Z"
+      },
+      "rating": 4.9,
+      "reviewCount": 34,
+      "ownerId": "owner-4",
+      "ownerName": "Tunde Adeyemi",
+      "createdAt": "2026-10-24T10:15:00Z"
+    },
+    {
+      "id": "ven-london-meridian",
+      "name": "The Meridian Conservatory",
+      "description": "Historic limestone courtyard and contemporary glass conservatory in Kensington, London. Equipped for international conferences, symposia, and black-tie galas.",
+      "country": "United Kingdom",
+      "region": "Greater London",
+      "city": "London",
+      "address": "88 Cromwell Gardens, Kensington, London SW7",
+      "coordinates": {
+        "lat": 51.4962,
+        "lng": -0.1749,
+        "mapX": 44,
+        "mapY": 44
+      },
+      "capacity": 600,
+      "eventTypes": [
+        "Conferences",
+        "Weddings",
+        "Parties"
+      ],
+      "facilities": [
+        "Simultaneous Translation Booths",
+        "Steinway Concert Grand",
+        "Botanical Glass Courtyard",
+        "Broadcast Fiber Uplink",
+        "Step-Free Access"
+      ],
+      "bookingCharge": 6400,
+      "currency": "GBP",
+      "planningContact": {
+        "name": "Charlotte Vance",
+        "phone": "+44 20 7946 0821",
+        "email": "concierge@meridianlondon.co.uk",
+        "momoNumber": "UK Faster Payments / IBAN",
+        "momoNetwork": "MTN MoMo",
+        "bankAccount": "Barclays UK · Sort 20-41-55 · 88392011"
+      },
+      "visualTheme": "courtyard_garden",
+      "images": {
+        "interior": "preset:courtyard_garden:interior",
+        "exterior": "preset:courtyard_garden:exterior",
+        "surroundings": "preset:courtyard_garden:surroundings",
+        "gallery": [
+          {
+            "id": "london-1",
+            "url": "preset:courtyard_garden:interior",
+            "angle": "interior",
+            "caption": "Botanical Glass Conservatory Banquet Hall"
+          },
+          {
+            "id": "london-2",
+            "url": "preset:courtyard_garden:exterior",
+            "angle": "exterior",
+            "caption": "Kensington Limestone Portico & Facade"
+          },
+          {
+            "id": "london-3",
+            "url": "preset:courtyard_garden:surroundings",
+            "angle": "surroundings",
+            "caption": "Illuminated Limestone Courtyard Garden"
+          }
+        ]
+      },
+      "bookedDates": [
+        "2026-11-26",
+        "2026-12-01"
+      ],
+      "status": "approved",
+      "botReport": {
+        "recommendation": "recommend_approval",
+        "score": 100,
+        "summary": "All checks passed.",
+        "checks": [
+          {
+            "label": "Profile & Contact Completeness",
+            "passed": true,
+            "detail": "Verified."
+          },
+          {
+            "label": "Geolocation & Map Pin Verification",
+            "passed": true,
+            "detail": "Kensington SW7."
+          },
+          {
+            "label": "Interior & Exterior Media Integrity",
+            "passed": true,
+            "detail": "Verified."
+          },
+          {
+            "label": "Duplicate Listing Scan",
+            "passed": true,
+            "detail": "Unique."
+          }
+        ],
+        "checkedAt": "2026-10-28T16:40:00Z"
+      },
+      "rating": 4.95,
+      "reviewCount": 41,
+      "ownerId": "owner-5",
+      "ownerName": "Charlotte Vance",
+      "createdAt": "2026-10-28T16:40:00Z"
+    },
+    {
+      "id": "ven-pending-takoradi",
+      "name": "Sekondi Harbour Convention Hall",
+      "description": "Newly commissioned waterfront conference hall in Takoradi with panoramic harbour deck, breakout rooms, and full AV production.",
+      "country": "Ghana",
+      "region": "Western Region",
+      "city": "Takoradi",
+      "address": "3 Harbour View Drive, Takoradi",
+      "coordinates": {
+        "lat": 4.8845,
+        "lng": -1.7554,
+        "mapX": 30,
+        "mapY": 74
+      },
+      "capacity": 550,
+      "eventTypes": [
+        "Conference",
+        "Corporate Summit",
+        "Concert & Show"
+      ],
+      "facilities": [
+        "Harbour Deck",
+        "Backup Generator",
+        "Projector Array",
+        "VIP Lounge"
+      ],
+      "bookingCharge": 8200,
+      "currency": "GHS",
+      "planningContact": {
+        "name": "Kojo Quayson",
+        "phone": "+233 24 662 1190",
+        "email": "kojo@sekondihall.gh",
+        "momoNumber": "024 662 1190",
+        "momoNetwork": "MTN MoMo",
+        "bankAccount": "Fidelity Bank Ghana · 10500928371"
+      },
+      "visualTheme": "glass_pavilion",
+      "images": {
+        "interior": "preset:glass_pavilion:interior",
+        "exterior": "preset:glass_pavilion:exterior",
+        "surroundings": "preset:glass_pavilion:surroundings"
+      },
+      "bookedDates": [],
+      "status": "pending_approval",
+      "botReport": {
+        "recommendation": "recommend_approval",
+        "score": 100,
+        "summary": "Automated bot verified all 4 integrity checks. Recommended for immediate admin approval.",
+        "checks": [
+          {
+            "label": "Profile & Contact Completeness",
+            "passed": true,
+            "detail": "All fields and Ghana MoMo details valid."
+          },
+          {
+            "label": "Geolocation & Map Pin Verification",
+            "passed": true,
+            "detail": "Takoradi, Western Region matched."
+          },
+          {
+            "label": "Interior & Exterior Media Integrity",
+            "passed": true,
+            "detail": "Interior & exterior assets verified."
+          },
+          {
+            "label": "Duplicate Listing Scan",
+            "passed": true,
+            "detail": "No duplicate centre found in Takoradi."
+          }
+        ],
+        "checkedAt": "2026-11-20T01:30:22.819Z"
+      },
+      "rating": 0,
+      "reviewCount": 0,
+      "ownerId": "owner-demo",
+      "ownerName": "Kojo Quayson",
+      "createdAt": "2026-11-20T01:30:22.819Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bkg-101",
+      "venueId": "ven-accra-aurum",
+      "venueName": "Aurum Grand Dome",
+      "venueCity": "Accra",
+      "ownerId": "owner-demo",
+      "bookerId": "booker-demo",
+      "bookerName": "Efua Darko",
+      "bookerContact": "+233 24 771 3309",
+      "eventDate": "2026-11-23",
+      "eventType": "Corporate Summit",
+      "guestCount": 650,
+      "amount": 18500,
+      "currency": "GHS",
+      "paymentMethod": "mtn_momo",
+      "paymentReference": "MM-2026-994182",
+      "proofImage": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22420%22%20height%3D%22240%22%20viewBox%3D%220%200%20420%20240%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22420%22%20height%3D%22240%22%20rx%3D%2216%22%20fill%3D%22%230f1229%22%2F%3E%0A%20%20%20%20%20%20%3Crect%20x%3D%2216%22%20y%3D%2216%22%20width%3D%22388%22%20height%3D%22208%22%20rx%3D%2212%22%20fill%3D%22%23171b3a%22%20stroke%3D%22%23f5c04a%22%20stroke-opacity%3D%220.4%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%2254%22%20fill%3D%22%23f5c04a%22%20font-family%3D%22sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%3EMTN%20MOMO%20TRANSFER%20RECEIPT%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%2288%22%20fill%3D%22%23ffffff%22%20font-family%3D%22monospace%22%20font-size%3D%2213%22%3ETXN%20ID%3A%20MM-2026-994182%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22116%22%20fill%3D%22%23c5cae3%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%3ERecipient%3A%20Kempes%20Gold%20Convention%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22144%22%20fill%3D%22%23c5cae3%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%3EAmount%20Paid%3A%20GHS%2018%2C500.00%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22172%22%20fill%3D%22%2322c55e%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22600%22%3EStatus%3A%20Transfer%20Successful%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22202%22%20fill%3D%22%23848ab0%22%20font-family%3D%22monospace%22%20font-size%3D%2211%22%3EVerified%20Electronic%20Payment%20Slip%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E",
+      "proofFileName": "momo-receipt-aurum.png",
+      "status": "confirmed",
+      "createdAt": "2026-11-12T10:15:00Z"
+    },
+    {
+      "id": "bkg-102",
+      "venueId": "ven-accra-aurum",
+      "venueName": "Aurum Grand Dome",
+      "venueCity": "Accra",
+      "ownerId": "owner-demo",
+      "bookerId": "booker-demo-2",
+      "bookerName": "Samuel Tetteh",
+      "bookerContact": "samuel@afrotech.org",
+      "eventDate": "2026-12-06",
+      "eventType": "Conference",
+      "guestCount": 900,
+      "amount": 18500,
+      "currency": "GHS",
+      "paymentMethod": "mtn_momo",
+      "paymentReference": "MM-2026-884012",
+      "proofImage": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22420%22%20height%3D%22240%22%20viewBox%3D%220%200%20420%20240%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22420%22%20height%3D%22240%22%20rx%3D%2216%22%20fill%3D%22%230f1229%22%2F%3E%0A%20%20%20%20%20%20%3Crect%20x%3D%2216%22%20y%3D%2216%22%20width%3D%22388%22%20height%3D%22208%22%20rx%3D%2212%22%20fill%3D%22%23171b3a%22%20stroke%3D%22%23f5c04a%22%20stroke-opacity%3D%220.4%22%2F%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%2254%22%20fill%3D%22%23f5c04a%22%20font-family%3D%22sans-serif%22%20font-size%3D%2214%22%20font-weight%3D%22700%22%3EMTN%20MOMO%20TRANSFER%20RECEIPT%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%2288%22%20fill%3D%22%23ffffff%22%20font-family%3D%22monospace%22%20font-size%3D%2213%22%3ETXN%20ID%3A%20MM-2026-994182%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22116%22%20fill%3D%22%23c5cae3%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%3ERecipient%3A%20Kempes%20Gold%20Convention%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22144%22%20fill%3D%22%23c5cae3%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%3EAmount%20Paid%3A%20GHS%2018%2C500.00%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22172%22%20fill%3D%22%2322c55e%22%20font-family%3D%22sans-serif%22%20font-size%3D%2213%22%20font-weight%3D%22600%22%3EStatus%3A%20Transfer%20Successful%3C%2Ftext%3E%0A%20%20%20%20%20%20%3Ctext%20x%3D%2236%22%20y%3D%22202%22%20fill%3D%22%23848ab0%22%20font-family%3D%22monospace%22%20font-size%3D%2211%22%3EVerified%20Electronic%20Payment%20Slip%3C%2Ftext%3E%0A%20%20%20%20%3C%2Fsvg%3E",
+      "proofFileName": "afrotech-deposit-slip.png",
+      "status": "payment_uploaded",
+      "createdAt": "2026-11-20T01:30:22.819Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "venueId": "ven-accra-aurum",
+      "bookingId": "bkg-101",
+      "bookerName": "Efua Darko",
+      "rating": 5,
+      "comment": "Flawless acoustics for our 650-person FinTech summit. The dual backup generators switched instantaneously during a brief grid dip and the planning desk was attentive all week.",
+      "eventType": "Corporate Summit",
+      "createdAt": "2026-11-15T14:20:00Z"
+    },
+    {
+      "id": "rev-2",
+      "venueId": "ven-accra-osu-pavilion",
+      "bookingId": "bkg-past-2",
+      "bookerName": "Kofi Annan-Forson",
+      "rating": 5,
+      "comment": "The twilight glass facade and reflecting terrace made our product launch unforgettable.",
+      "eventType": "Product Launch",
+      "createdAt": "2026-11-02T18:00:00Z"
+    },
+    {
+      "id": "rev-3",
+      "venueId": "ven-london-meridian",
+      "bookingId": "bkg-past-3",
+      "bookerName": "Dr. Helena Wright",
+      "rating": 5,
+      "comment": "Seamless translation booths and breathtaking natural light in the conservatory courtyard.",
+      "eventType": "Conference",
+      "createdAt": "2026-10-29T12:00:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "targetRole": "owner",
+      "title": "New payment proof uploaded",
+      "message": "Samuel Tetteh uploaded MTN MoMo receipt MM-2026-884012 for Aurum Grand Dome.",
+      "channel": "In-App",
+      "read": false,
+      "createdAt": "2026-11-20T01:30:22.819Z"
+    },
+    {
+      "id": "notif-2",
+      "targetRole": "admin",
+      "title": "Pending venue pre-checked by Bot",
+      "message": "Sekondi Harbour Convention Hall passed 4/4 verification checks and awaits approval.",
+      "channel": "In-App",
+      "read": false,
+      "createdAt": "2026-11-20T01:30:22.819Z"
+    },
+    {
+      "id": "notif-3",
+      "targetRole": "booker",
+      "title": "Booking confirmed & date locked",
+      "message": "Aurum Grand Dome confirmed your payment for Corporate Summit.",
+      "channel": "SMS",
+      "read": false,
+      "createdAt": "2026-11-12T11:00:00Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1",
+      "actor": "Verification Bot",
+      "action": "PRE_CHECK_PASSED",
+      "target": "Sekondi Harbour Convention Hall",
+      "detail": "4/4 integrity checks passed; recommended for admin approval.",
+      "createdAt": "2026-11-20T01:30:22.819Z"
+    },
+    {
+      "id": "aud-2",
+      "actor": "Admin Console",
+      "action": "LISTING_APPROVED",
+      "target": "Aurum Grand Dome",
+      "detail": "Approved listing in Accra, Greater Accra, Ghana.",
+      "createdAt": "2026-10-12T10:05:00Z"
+    }
+  ],
+  "subscriptions": [
+    {
+      "ownerId": "owner-demo",
+      "plan": "standard_trial",
+      "trialDaysRemaining": 14,
+      "status": "trialing",
+      "nextBillingDate": "2026-12-04"
+    }
+  ]
+}
